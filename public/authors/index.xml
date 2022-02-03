@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on AfricaNLP Workshop</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on AfricaNLP Workshop</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/clippy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/clippy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/david/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/david/</guid>
+      <description>&lt;p&gt;[ADD YOUR BIO HERE USING MARKDOWN]&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;David Adelani is a doctoral student in computer science at Saarland University, Saarbrücken, Germany. His current research focuses on the security and privacy of users’ information in dialogue systems and online social interactions. Originally from Nigeria, he is also actively involved in the development of natural language processing datasets and tools for low-resource languages, with a special focus on African languages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/julia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/julia/</guid>
+      <description>&lt;p&gt;[ADD YOUR BIO HERE USING MARKDOWN]&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Julia Stewart Lowndes PhD is a marine ecologist, data scientist, and Mozilla Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS). As founding director of Openscapes and science program lead of the Ocean Health Index, she empowers scientists with data science and open practices. She also leads trainings as a co-founder of Eco-Data-Science, R-Ladies Santa Barbara, and as an instructor with The Carpentries. She earned her PhD at Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

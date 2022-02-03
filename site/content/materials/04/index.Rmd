@@ -1,0 +1,30 @@
+---
+title: 'Session 04: Ensembling'
+draft: false
+date: '2019-08-29'
+slug: 04-ensembling
+categories: []
+tags: []
+lastmod: '2019-09-09T11:21:55-07:00'
+featured: no
+projects: []
+weight: 5
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: /slides/04-ensembling.html
+- icon: dumbbell
+  icon_pack: fas
+  name: Exercises
+  url: https://github.com/rstudio-conf-2020/intro-to-ml-tidy/blob/master/materials/exercises/04-Ensembling.Rmd
+- icon: check-square
+  icon_pack: far
+  name: Solutions
+  url: https://github.com/rstudio-conf-2020/intro-to-ml-tidy/blob/master/materials/solutions/04-Ensembling.Rmd
+---
+
+
+```{r echo=FALSE}
+knitr::include_url("/slides/04-ensembling.html")
+```

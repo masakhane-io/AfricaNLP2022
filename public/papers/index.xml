@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop materials on AfricaNLP Workshop</title>
+    <link>/papers/</link>
+    <description>Recent content in Workshop materials on AfricaNLP Workshop</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/papers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Session 00: Welcome &amp; Introduction</title>
+      <link>/papers/00-welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/00-welcome/</guid>
+      <description>
+&lt;script src=&#34;/papers/00-welcome/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;iframe src=&#34;/slides/00-overview.html&#34; width=&#34;672&#34; height=&#34;400px&#34; data-external=&#34;1&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 01: Predicting</title>
+      <link>/papers/01-predicting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/01-predicting/</guid>
+      <description>
+&lt;script src=&#34;/papers/01-predicting/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;iframe src=&#34;/slides/01-predicting.html&#34; width=&#34;672&#34; height=&#34;400px&#34; data-external=&#34;1&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 02: Classifying</title>
+      <link>/papers/02-classifying/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/02-classifying/</guid>
+      <description>
+&lt;script src=&#34;/papers/02-classifying/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;iframe src=&#34;/slides/02-classifying.html&#34; width=&#34;672&#34; height=&#34;400px&#34; data-external=&#34;1&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 03: Sampling &amp; Resampling</title>
+      <link>/papers/03/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/03/</guid>
+      <description>
+&lt;script src=&#34;/papers/03/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;iframe src=&#34;/slides/03-resampling.html&#34; width=&#34;672&#34; height=&#34;400px&#34; data-external=&#34;1&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 04: Ensembling</title>
+      <link>/papers/04-ensembling/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/04-ensembling/</guid>
+      <description>
+&lt;script src=&#34;/papers/04-ensembling/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;iframe src=&#34;/slides/04-ensembling.html&#34; width=&#34;672&#34; height=&#34;400px&#34; data-external=&#34;1&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 05: Workflows</title>
+      <link>/papers/05-workflows/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/05-workflows/</guid>
+      <description>
+&lt;script src=&#34;/papers/05-workflows/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;iframe src=&#34;/slides/05-workflows.html&#34; width=&#34;672&#34; height=&#34;400px&#34; data-external=&#34;1&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 06: Recipes</title>
+      <link>/papers/06-recipes/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/06-recipes/</guid>
+      <description>
+&lt;script src=&#34;/papers/06-recipes/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;iframe src=&#34;/slides/06-recipes.html&#34; width=&#34;672&#34; height=&#34;400px&#34; data-external=&#34;1&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 07: Cross-validation</title>
+      <link>/papers/07-cv/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/07-cv/</guid>
+      <description>
+&lt;script src=&#34;/papers/07-cv/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;iframe src=&#34;/slides/07-cv.html&#34; width=&#34;672&#34; height=&#34;400px&#34; data-external=&#34;1&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session 08: Tuning</title>
+      <link>/papers/08-tune/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/08-tune/</guid>
+      <description>
+&lt;script src=&#34;/papers/08-tune/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;iframe src=&#34;/slides/08-tune.html&#34; width=&#34;672&#34; height=&#34;400px&#34; data-external=&#34;1&#34;&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Appendix</title>
+      <link>/appendix/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/appendix/</guid>
+      <description>
+&lt;script src=&#34;/appendix/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/appendix/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/appendix/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/appendix/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/appendix/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/appendix/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;link href=&#34;/appendix/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/appendix/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/appendix/index_files/nouislider/jquery.nouislider.min.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/appendix/index_files/nouislider/jquery.nouislider.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/appendix/index_files/selectize/selectize.bootstrap3.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/appendix/index_files/selectize/selectize.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/appendix/index_files/crosstalk/css/crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/appendix/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:auto;&#34; class=&#34;datatables html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;filter&#34;:&#34;top&#34;,&#34;vertical&#34;:false,&#34;filterHTML&#34;:&#34;&lt;tr&gt;\n  &lt;td data-type=\&#34;factor\&#34; style=\&#34;vertical-align: top;\&#34;&gt;\n    &lt;div class=\&#34;form-group has-feedback\&#34; style=\&#34;margin-bottom: auto;\&#34;&gt;\n      &lt;input type=\&#34;search\&#34; placeholder=\&#34;All\&#34; class=\&#34;form-control\&#34; style=\&#34;width: 100%;\&#34;/&gt;\n      &lt;span class=\&#34;glyphicon glyphicon-remove-circle form-control-feedback\&#34;&gt;&lt;\/span&gt;\n    &lt;\/div&gt;\n    &lt;div style=\&#34;width: 100%; display: none;\&#34;&gt;\n      &lt;select multiple=\&#34;multiple\&#34; style=\&#34;width: 100%;\&#34; data-options=\&#34;[&amp;quot;1&amp;quot;,&amp;quot;2&amp;quot;,&amp;quot;4&amp;quot;,&amp;quot;5&amp;quot;,&amp;quot;6&amp;quot;,&amp;quot;7&amp;quot;,&amp;quot;8&amp;quot;]\&#34;&gt;&lt;\/select&gt;\n    &lt;\/div&gt;\n  &lt;\/td&gt;\n  &lt;td data-type=\&#34;factor\&#34; style=\&#34;vertical-align: top;\&#34;&gt;\n    &lt;div class=\&#34;form-group has-feedback\&#34; style=\&#34;margin-bottom: auto;\&#34;&gt;\n      &lt;input type=\&#34;search\&#34; placeholder=\&#34;All\&#34; class=\&#34;form-control\&#34; style=\&#34;width: 100%;\&#34;/&gt;\n      &lt;span class=\&#34;glyphicon glyphicon-remove-circle form-control-feedback\&#34;&gt;&lt;\/span&gt;\n    &lt;\/div&gt;\n    &lt;div style=\&#34;width: 100%; display: none;\&#34;&gt;\n      &lt;select multiple=\&#34;multiple\&#34; style=\&#34;width: 100%;\&#34; data-options=\&#34;[&amp;quot;helper&amp;quot;,&amp;quot;parsnip&amp;quot;,&amp;quot;recipes&amp;quot;,&amp;quot;rsample&amp;quot;,&amp;quot;tidyr&amp;quot;,&amp;quot;tune&amp;quot;,&amp;quot;vip&amp;quot;,&amp;quot;workflows&amp;quot;,&amp;quot;yardstick&amp;quot;]\&#34;&gt;&lt;\/select&gt;\n    &lt;\/div&gt;\n  &lt;\/td&gt;\n  &lt;td data-type=\&#34;character\&#34; style=\&#34;vertical-align: top;\&#34;&gt;\n    &lt;div class=\&#34;form-group has-feedback\&#34; style=\&#34;margin-bottom: auto;\&#34;&gt;\n      &lt;input type=\&#34;search\&#34; placeholder=\&#34;All\&#34; class=\&#34;form-control\&#34; style=\&#34;width: 100%;\&#34;/&gt;\n      &lt;span class=\&#34;glyphicon glyphicon-remove-circle form-control-feedback\&#34;&gt;&lt;\/span&gt;\n    &lt;\/div&gt;\n  &lt;\/td&gt;\n&lt;\/tr&gt;&#34;,&#34;data&#34;:[[&#34;1&#34;,&#34;1&#34;,&#34;1&#34;,&#34;1&#34;,&#34;1&#34;,&#34;1&#34;,&#34;1&#34;,&#34;1&#34;,&#34;1&#34;,&#34;1&#34;,&#34;1&#34;,&#34;1&#34;,&#34;1&#34;,&#34;2&#34;,&#34;2&#34;,&#34;2&#34;,&#34;2&#34;,&#34;2&#34;,&#34;4&#34;,&#34;4&#34;,&#34;4&#34;,&#34;5&#34;,&#34;5&#34;,&#34;5&#34;,&#34;5&#34;,&#34;5&#34;,&#34;5&#34;,&#34;6&#34;,&#34;6&#34;,&#34;6&#34;,&#34;6&#34;,&#34;6&#34;,&#34;7&#34;,&#34;7&#34;,&#34;7&#34;,&#34;7&#34;,&#34;8&#34;,&#34;8&#34;,&#34;8&#34;,&#34;8&#34;,&#34;8&#34;,&#34;8&#34;,&#34;8&#34;,&#34;8&#34;,&#34;8&#34;,&#34;8&#34;,&#34;8&#34;],[&#34;parsnip&#34;,&#34;parsnip&#34;,&#34;parsnip&#34;,&#34;helper&#34;,&#34;parsnip&#34;,&#34;yardstick&#34;,&#34;rsample&#34;,&#34;rsample&#34;,&#34;rsample&#34;,&#34;helper&#34;,&#34;tune&#34;,&#34;yardstick&#34;,&#34;tidyr&#34;,&#34;parsnip&#34;,&#34;tune&#34;,&#34;yardstick&#34;,&#34;yardstick&#34;,&#34;yardstick&#34;,&#34;parsnip&#34;,&#34;parsnip&#34;,&#34;vip&#34;,&#34;workflows&#34;,&#34;workflows&#34;,&#34;workflows&#34;,&#34;workflows&#34;,&#34;workflows&#34;,&#34;workflows&#34;,&#34;recipes&#34;,&#34;recipes&#34;,&#34;workflows&#34;,&#34;recipes&#34;,&#34;workflows&#34;,&#34;rsample&#34;,&#34;tune&#34;,&#34;tune&#34;,&#34;tune&#34;,&#34;tune&#34;,&#34;tune&#34;,&#34;tidyr&#34;,&#34;tune&#34;,&#34;tune&#34;,&#34;tune&#34;,&#34;tune&#34;,&#34;workflows&#34;,&#34;workflows&#34;,&#34;workflows&#34;,&#34;tune&#34;],[&#34;linear_reg()&#34;,&#34;decision_tree()&#34;,&#34;nearest_neighbor()&#34;,&#34;fit_data() (reference: parsnip::fit())&#34;,&#34;predict()&#34;,&#34;rmse()&#34;,&#34;initial_split()&#34;,&#34;training()&#34;,&#34;testing()&#34;,&#34;fit_split() (reference: tune::last_fit())&#34;,&#34;collect_metrics()&#34;,&#34;metric_set()&#34;,&#34;unnest()&#34;,&#34;set_mode(\&#34;classification\&#34;)&#34;,&#34;collect_predictions()&#34;,&#34;conf_mat()&#34;,&#34;roc_auc()&#34;,&#34;roc_curve()&#34;,&#34;rand_forest()&#34;,&#34;set_args()&#34;,&#34;vip()&#34;,&#34;workflow()&#34;,&#34;add_formula()&#34;,&#34;add_model()&#34;,&#34;update_formula()&#34;,&#34;update_model()&#34;,&#34;pull_workflow_fit()&#34;,&#34;step_*()&#34;,&#34;*_role()&#34;,&#34;add_recipe()&#34;,&#34;all_*() (recipe selectors)&#34;,&#34;update_recipe()&#34;,&#34;vfold_cv()&#34;,&#34;fit_resamples()&#34;,&#34;collect_metrics(summarize = FALSE)&#34;,&#34;control_resamples()&#34;,&#34;tune() (for parsnip and recipe objects)&#34;,&#34;tune_grid()&#34;,&#34;expand_grid()&#34;,&#34;control_grid()&#34;,&#34;show_best()&#34;,&#34;select_best()&#34;,&#34;autoplot()&#34;,&#34;finalize_recipe()&#34;,&#34;finalize_workflow()&#34;,&#34;finalize_model()&#34;,&#34;last_fit() (previously known as fit_split())&#34;]],&#34;container&#34;:&#34;&lt;table class=\&#34;cell-border stripe\&#34;&gt;\n  &lt;thead&gt;\n    &lt;tr&gt;\n      &lt;th&gt;session&lt;\/th&gt;\n      &lt;th&gt;package&lt;\/th&gt;\n      &lt;th&gt;function&lt;\/th&gt;\n    &lt;\/tr&gt;\n  &lt;\/thead&gt;\n&lt;\/table&gt;&#34;,&#34;options&#34;:{&#34;autoWidth&#34;:true,&#34;bInfo&#34;:false,&#34;paging&#34;:false,&#34;order&#34;:[],&#34;orderClasses&#34;:false,&#34;orderCellsTop&#34;:true}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

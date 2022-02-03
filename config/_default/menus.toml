@@ -1,0 +1,147 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+
+[[main]]
+  name = "Call for Paper"
+  url = "calls"
+  weight = 10
+  identifier = "about"
+  
+
+[[main]]
+  name = "People"
+  url = "speakers"
+  weight = 19
+  identifier = "people"
+
+
+
+[[main]]
+  name = "Speakers"
+  url = "people#speakers"
+  weight = 21
+   parent = "people"
+
+[[main]]
+  name = "Organizers"
+  url = "people#organizers"
+  weight = 22
+ parent = "people"
+
+
+
+
+
+#[[main]]
+ # name = "Speakers"
+#  url = "people#speakers/"
+ # weight = 21
+#  parent = "people"
+
+#[[main]]
+ # name = "Organizers"
+  #url = "people#organizers/"
+  #weight = 22
+  #parent = "people"
+
+
+#[[main]]
+ # name = "Blog"
+  #url = "Blog"
+  #weight = 500
+
+
+# Change the url of Program : "program/program/"
+#[[main]]
+ # name = "Program"
+  #url = "calls"
+  #weight = 30
+  #
+  #identifier = "program"
+
+#[[main]]
+ # name = "Program"
+#  url = "program/program/"
+ # weight = 30
+  #identifier = "program"
+
+#[[main]]
+ # name = "Papers"
+  #url = "papers"
+  #weight = 40
+  #identifier = "papers"
+
+ # [[main]]
+  #name = "Accepted Papers"
+  #url = "calls"
+  #weight = 40
+  #parent = "papers"
+
+
+  #[[main]]
+  #name = "Best Papers Awards"
+  #url = "calls"
+  #weight = 40
+  #parent = "papers"
+
+
+
+
+#[[main]]
+ # name = "Sponsors"
+  #url = "sponsors"
+  #weight = 60
+
+[[main]]
+  name = "Contact US"
+  url = "contact/"
+  weight = 65
+  
+
+
+    
+[[main]]
+  name = "2021"
+  url = "https://sites.google.com/view/africanlp-workshop"
+  weight = 70
+  parent = "edition"
+
+     
+[[main]]
+  name = "2020"
+  url = "https://africanlp-workshop.github.io"
+  weight = 70
+  parent = "edition"
+
+ 
+
+[[main]]
+  name = "Program Commitee"
+  url = "pc/pc/"
+  weight = 60
+  identifier = "program Commitee"
+
+
+
+[[main]]
+  name = "sponsors"
+  url = "index.html/"
+  weight = 70
+  identifier = "Sponsors"
+  
+  [[main]]
+  name = "Editions"
+  url = "edition"
+  weight = 80
+  identifier = "edition"
+  
+
+# uncomment when ready to share source code and add repo link to upper navbar
+# [[main]]
+  #pre = "<i class=\"fab fa-github fa-lg\"></i>"
+  #name = ""
+  #url = "https://github.com/rstudio-conf-2020/workshop-template-blogdown"
+  #weight = 60

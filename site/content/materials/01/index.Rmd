@@ -1,0 +1,28 @@
+---
+title: 'Session 01: Predicting'
+draft: false
+slug: 01-predicting
+categories: []
+tags: []
+featured: no
+projects: []
+weight: 2
+links:
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: /slides/01-predicting.html
+- icon: dumbbell
+  icon_pack: fas
+  name: Exercises
+  url: https://github.com/rstudio-conf-2020/intro-to-ml-tidy/blob/master/materials/exercises/01-Prediction.Rmd
+- icon: check-square
+  icon_pack: far
+  name: Solutions
+  url: https://github.com/rstudio-conf-2020/intro-to-ml-tidy/blob/master/materials/solutions/01-Prediction.Rmd
+---
+
+
+```{r echo=FALSE}
+knitr::include_url("/slides/01-predicting.html")
+```
